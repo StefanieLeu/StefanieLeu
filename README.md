@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StefanieLeu
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning cloud engineering 
-- 💞️ I’m looking to collaborate on data projects
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning web development
 
 <!---
 StefanieLeu/StefanieLeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
